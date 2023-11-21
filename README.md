@@ -1,2 +1,2 @@
 # LearnDeepLearning
-My learnings from courses on Deep Learning fundamentals
+My learnings from Daniel Bourke's courses on Deep Learning fundamentals
